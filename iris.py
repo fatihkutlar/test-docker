@@ -83,3 +83,5 @@ y_pred = rfc.predict(X_test)
 cm = confusion_matrix(y_test,y_pred)
 print('RFC')
 print(cm)
+
+# bu satiri github dev ile actim teknoloji ne kadar hizli gelisiyor yaa.
